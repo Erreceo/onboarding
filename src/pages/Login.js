@@ -42,7 +42,7 @@ const LoginForm = () => (
       <div className="offset-md-4 col-sm-1 col-md-4">
         <Container className="card">
           <Header className="d-flex justify-content-center align-items-center">
-            <p className="h1">Login 2</p>
+            <p className="h1">Login</p>
           </Header>
           <form>
             <div className="container">
