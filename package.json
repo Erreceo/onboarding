@@ -2,7 +2,7 @@
   "name": "onboarding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rodrigoxiita.github.io/onboarding_v2",
+  "homepage": "https://rodrigoxiita.github.io/onboarding",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
