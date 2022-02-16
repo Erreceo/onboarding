@@ -1,4 +1,4 @@
-import backgroundImage from "../assets/sea.png.old";
+import backgroundImage from "../assets/sea.png";
 import icon from "../assets/boatIcon.svg"
 import Input from '../components/Input';
 import Button from '../components/Button';
